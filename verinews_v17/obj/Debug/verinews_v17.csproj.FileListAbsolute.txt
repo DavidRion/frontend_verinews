@@ -1,0 +1,17 @@
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\verinews_v17.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\verinews_v17.pdb
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\obj\Debug\verinews_v17.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\obj\Debug\verinews_v17.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\obj\Debug\verinews_v17.pdb
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\Mono.Security.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\Npgsql.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\policy.2.0.Npgsql.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\Npgsql.pdb
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\Npgsql.xml
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\de\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\es\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\fi\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\fr\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\ja\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\zh-CN\Npgsql.resources.dll
+c:\users\david\documents\visual studio 2010\Projects\verinews_v17\verinews_v17\bin\policy.2.0.Npgsql.config
